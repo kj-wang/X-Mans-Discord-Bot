@@ -1,0 +1,1 @@
+A Discord Bot used to organize tournament-style matches for Valorant. It has its own ELO system that has auto-balancing features, as well as Discord functionalities such as auto-moving to channels based on teams. Other functionalities assist with setting up matches and use the Discord API to integrate itself.
